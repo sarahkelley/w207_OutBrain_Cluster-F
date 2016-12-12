@@ -12,7 +12,7 @@ To run from locally and explore machine learning approaches:
 
 		- Page_views.csv is 100GB and >2 billion rows, so we used page_views_sample instead
 
-	3) Then you can run Machine_Learning.ipynb which will use the training and dev data set up by the Data_EDA_Features.ipynb.
+	3) Then you can run Machine_Learning_Final.ipynb which will use the training and dev data set up by the Data_EDA_Features.ipynb.
 
 		- The GridSearches and Random Forest models are SLOW
 
